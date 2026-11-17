@@ -40,10 +40,10 @@
 ### A CH45 -ös csatorna konstellációs diagramja ###  
 <img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/13dd15b7-95f3-499e-a2fb-2a18e05f172a" />  
 
-### A CH45 -ös csatornán a DUNATV HD jelszint és TV adás ###  
+### A CH45 -ös csatornán a M2 HD jelszint és TV adás ###  
 <img width="930" height="522" alt="image" src="https://github.com/user-attachments/assets/25a31f2d-acfd-4a6c-a6e5-185ebd077066" />  
 
-### A CH45 -ös csatornán a DUNATV HD műsora ###  
+### A CH45 -ös csatornán a M2 HD műsora ###  
 <img width="938" height="524" alt="image" src="https://github.com/user-attachments/assets/9defddee-2181-4cdc-b3ea-fa98717f8fbf" />  
 
 
